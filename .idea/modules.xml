@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CertPrep.iml" filepath="$PROJECT_DIR$/CertPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CertPrep.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CertPrep.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CertPrep.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CertPrep.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java17.iml" filepath="$PROJECT_DIR$/.idea/java17.iml" />
+    </modules>
+  </component>
+</project>
